@@ -1,7 +1,7 @@
 # Hello, my name is herebiondev
-### Full-stack Web, Java, IOS & Android developer
+### IOS & Android developer
 
-I'm a software developer who is just beginning his career. I have decided to specialize in mobile application development. However, I can also develop professional websites.
+I'm a software developer who is just beginning his career. I have decided to specialize in mobile application development.
 
 ## Skills:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
@@ -19,7 +19,3 @@ I'm a software developer who is just beginning his career. I have decided to spe
 </br>
 And more...
 
-## What am I learning:
-[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
-[![React Native](https://img.shields.io/badge/React-0095D5?style=for-the-badge&logo=React&logoColor=white&labelColor=101010)]()
